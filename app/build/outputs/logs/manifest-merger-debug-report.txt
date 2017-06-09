@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:7:5-8:35
+	android:required
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:7:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:18:5-45:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\Skoop\.android\build-cache\9837e6ec5cbc636c82e7b8d1a75c2d4b27135d20\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Skoop\.android\build-cache\494f1e213157d2c7587d124a1a3cc32b4d790ff2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Skoop\.android\build-cache\a0cbf2066ee6bbd6db85bb42beb5cb03009a793a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Skoop\.android\build-cache\7c6a2a1ad81a69bc88593556863a9e3aacd3cfd1\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Skoop\.android\build-cache\3237892b6304f1b8a567495f49f1783251a67cda\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Skoop\.android\build-cache\7e8315a1ae4f727747204e8eb1bd9ab419d4fb7b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Skoop\.android\build-cache\df6c83d05c655c49cd6ff193b8ce3643ce02455e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Skoop\.android\build-cache\6f9886e42a45e174a3e08a8ae735d2663d96c935\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Skoop\.android\build-cache\f6d13df54b77d5778833999c6a2d9f2b3b67c3f3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Skoop\.android\build-cache\c7c25f7bd64b85b90b4d8d4c3cf5981f2c988844\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Skoop\.android\build-cache\20ff704c05e6a26e15ac1bb22e40db387695353e\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:22:9-35
+	android:allowBackup
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.ojboba.inventoryapp.MainActivity
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:24:9-30:16
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:25:9-29:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:28:23-70
+activity#com.example.ojboba.inventoryapp.EditorActivity
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:32:5-35:16
+	android:parentActivityName
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:34:9-51
+	android:theme
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:32:15-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:36:9-38:45
+	android:value
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:38:13-42
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:37:13-59
+provider#com.example.ojboba.inventoryapp.data.InventoryProvider
+ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:40:9-43:39
+	android:authorities
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:41:13-66
+	android:exported
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml:42:13-51
+uses-sdk
+INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.1.1] C:\Users\Skoop\.android\build-cache\9837e6ec5cbc636c82e7b8d1a75c2d4b27135d20\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Skoop\.android\build-cache\494f1e213157d2c7587d124a1a3cc32b4d790ff2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Skoop\.android\build-cache\a0cbf2066ee6bbd6db85bb42beb5cb03009a793a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Skoop\.android\build-cache\7c6a2a1ad81a69bc88593556863a9e3aacd3cfd1\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Skoop\.android\build-cache\987e8fe05c1dfb95b0c3b9fd7957f60beb1c10eb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Skoop\.android\build-cache\3237892b6304f1b8a567495f49f1783251a67cda\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Skoop\.android\build-cache\7e8315a1ae4f727747204e8eb1bd9ab419d4fb7b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Skoop\.android\build-cache\df6c83d05c655c49cd6ff193b8ce3643ce02455e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Skoop\.android\build-cache\6f9886e42a45e174a3e08a8ae735d2663d96c935\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Skoop\.android\build-cache\f6d13df54b77d5778833999c6a2d9f2b3b67c3f3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Skoop\.android\build-cache\c7c25f7bd64b85b90b4d8d4c3cf5981f2c988844\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Skoop\.android\build-cache\20ff704c05e6a26e15ac1bb22e40db387695353e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Skoop\.android\build-cache\9837e6ec5cbc636c82e7b8d1a75c2d4b27135d20\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Skoop\Documents\My Projects\AndroidStudioProjects\Inventory_App\Inventory_App\app\src\main\AndroidManifest.xml

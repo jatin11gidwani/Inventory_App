@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ojboba.inventoryapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <!-- allows app to use camera -->
+    <!-- only works when the phone has a camera which is true most the time -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true" />
+
+    <!-- allows to save full size photos -->
+    <!-- <uses-permission android:name="android.permission.CAMERA"/> -->
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.ojboba.inventoryapp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ojboba.inventoryapp.EditorActivity"
+            android:parentActivityName="com.example.ojboba.inventoryapp.MainActivity"
+            android:theme="@style/AppTheme" >
+        </activity>
+
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".MainActivity" />
+
+        <provider
+            android:name="com.example.ojboba.inventoryapp.data.InventoryProvider"
+            android:authorities="com.example.android.inventories"
+            android:exported="false" />
+    </application>
+
+</manifest>
